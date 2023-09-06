@@ -19,7 +19,7 @@ namespace CustomerManagementSimulator
         static async Task Main(string[] args)
         {
             var httpClient = new HttpClient();
-            var baseUri = "https://localhost:7078"; 
+            var baseUri = "http://localhost:5102"; 
 
             // Simulate POST requests
             for (int i = 1; i <= 5; i++)

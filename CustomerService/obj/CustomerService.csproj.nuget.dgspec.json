@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mohitpatil/Document/Git_Repo/CustomerService/CustomerService.csproj": {}
+    "/Users/mohitpatil/Document/Git_Repo/CS-Git/CustomerService/CustomerService/CustomerService.csproj": {}
   },
   "projects": {
-    "/Users/mohitpatil/Document/Git_Repo/CustomerService/CustomerService.csproj": {
+    "/Users/mohitpatil/Document/Git_Repo/CS-Git/CustomerService/CustomerService/CustomerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mohitpatil/Document/Git_Repo/CustomerService/CustomerService.csproj",
+        "projectUniqueName": "/Users/mohitpatil/Document/Git_Repo/CS-Git/CustomerService/CustomerService/CustomerService.csproj",
         "projectName": "CustomerService",
-        "projectPath": "/Users/mohitpatil/Document/Git_Repo/CustomerService/CustomerService.csproj",
+        "projectPath": "/Users/mohitpatil/Document/Git_Repo/CS-Git/CustomerService/CustomerService/CustomerService.csproj",
         "packagesPath": "/Users/mohitpatil/.nuget/packages/",
-        "outputPath": "/Users/mohitpatil/Document/Git_Repo/CustomerService/obj/",
+        "outputPath": "/Users/mohitpatil/Document/Git_Repo/CS-Git/CustomerService/CustomerService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mohitpatil/.nuget/NuGet/NuGet.Config"

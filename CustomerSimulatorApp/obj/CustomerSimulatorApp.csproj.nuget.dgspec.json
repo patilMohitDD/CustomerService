@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mohitpatil/Document/Git_Repo/CustomerSimulatorApp/CustomerSimulatorApp.csproj": {}
+    "/Users/mohitpatil/Document/Git_Repo/CS-Git/CustomerService/CustomerSimulatorApp/CustomerSimulatorApp.csproj": {}
   },
   "projects": {
-    "/Users/mohitpatil/Document/Git_Repo/CustomerSimulatorApp/CustomerSimulatorApp.csproj": {
+    "/Users/mohitpatil/Document/Git_Repo/CS-Git/CustomerService/CustomerSimulatorApp/CustomerSimulatorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mohitpatil/Document/Git_Repo/CustomerSimulatorApp/CustomerSimulatorApp.csproj",
+        "projectUniqueName": "/Users/mohitpatil/Document/Git_Repo/CS-Git/CustomerService/CustomerSimulatorApp/CustomerSimulatorApp.csproj",
         "projectName": "CustomerSimulatorApp",
-        "projectPath": "/Users/mohitpatil/Document/Git_Repo/CustomerSimulatorApp/CustomerSimulatorApp.csproj",
+        "projectPath": "/Users/mohitpatil/Document/Git_Repo/CS-Git/CustomerService/CustomerSimulatorApp/CustomerSimulatorApp.csproj",
         "packagesPath": "/Users/mohitpatil/.nuget/packages/",
-        "outputPath": "/Users/mohitpatil/Document/Git_Repo/CustomerSimulatorApp/obj/",
+        "outputPath": "/Users/mohitpatil/Document/Git_Repo/CS-Git/CustomerService/CustomerSimulatorApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mohitpatil/.nuget/NuGet/NuGet.Config"
