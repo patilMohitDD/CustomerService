@@ -22,7 +22,7 @@ Before you begin, ensure that you have the following prerequisites installed on 
 
 2. <b>After running the server, take note of the local host URL where CustomerService is running.</b><br> 
 
-<br>Typically, it will be something like http://localhost:5000 and paste in the customerService/program.cs -> update the BASEURL variable wit the copied current localHost url along with the port number.
+<br>Typically, it will be something like http://localhost:5000 and paste in the customerService/Program.cs -> update the BASEURL variable wit the copied current localHost url along with the port number.
 
 3 <b> Navigate to the CustomerSimulator directory:
    ```bash
