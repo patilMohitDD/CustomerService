@@ -1,5 +1,6 @@
 namespace CustomerService.Model
-{
+{   
+    // Customer Model Schema
     public class Customer
     {
         public string FirstName { get; set; }
