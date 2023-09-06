@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mohitpatil/Document/Git_Repo/CustomerSimulatorApp/CustomerSimulatorApp.csproj": {}
+  },
+  "projects": {
+    "/Users/mohitpatil/Document/Git_Repo/CustomerSimulatorApp/CustomerSimulatorApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mohitpatil/Document/Git_Repo/CustomerSimulatorApp/CustomerSimulatorApp.csproj",
+        "projectName": "CustomerSimulatorApp",
+        "projectPath": "/Users/mohitpatil/Document/Git_Repo/CustomerSimulatorApp/CustomerSimulatorApp.csproj",
+        "packagesPath": "/Users/mohitpatil/.nuget/packages/",
+        "outputPath": "/Users/mohitpatil/Document/Git_Repo/CustomerSimulatorApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mohitpatil/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
